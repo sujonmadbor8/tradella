@@ -437,6 +437,9 @@ footer {
   transform: scale(1.1);
   color: var(--white) !important;
 }
+.footer_btn {
+  padding: 5px 20px;
+}
 
 
 .margin_b {
