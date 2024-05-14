@@ -45,7 +45,7 @@
   img {
     width: 100%;
   }
-  .btn_c {
+  .btn_c { 
     padding: 8px 10px;
     font-family: Poppins-SemiBold;
     font-weight: 600;
@@ -55,6 +55,8 @@
     border-radius: 50px;
     text-decoration: none;
     transition: all 0.4s;
+    border: none;
+    outline: none;
   }
   .btn_c:hover {
     /* background-color: #fcae61; */
