@@ -106,7 +106,7 @@ margin-top: 10px;
 /* about end  */
 
 /* service start  */
-#service {
+#parts {
   padding: 30px 0; 
 }
 .service_item {
@@ -126,7 +126,7 @@ font-size: 22px;
  /* service end  */
 
 /* brand start   */
-#brand_section{
+#brands{
   padding: 50px 0;
 }
 .brand_s_img {
@@ -285,7 +285,7 @@ padding: 30px 0;
   /* about end  */
 
 /* service start  */
-#service {
+#parts {
   padding: 30px 0; 
 }
 .service_item {
@@ -305,7 +305,7 @@ font-size: 22px;
  /* service end  */
 
 /* brand start   */
-#brand_section{
+#brands{
   padding: 50px 0;
 }
 .brand_s_img {
@@ -445,7 +445,7 @@ font-size: 22px;
  /* service end  */
 
 /* brand start   */
-#brand_section{
+#brands{
   padding: 80px 0;
 }
 .brand_s_img {

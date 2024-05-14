@@ -255,7 +255,7 @@ margin-top: 10px;
 
 
   /* service start  */
-  #service {
+  #parts {
     padding: 60px 0;
     background-image: url('../images/service_bg.png');
     min-height: 600px;
@@ -290,7 +290,7 @@ margin-top: 10px;
 
   /* brand start  */
 
-#brand_section{
+#brands{
   padding: 100px 0;
 }
 .brand_s_desc h2 {
