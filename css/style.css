@@ -149,7 +149,7 @@ height: 20px;
 
   /* slider start  */
   #slider {
-    padding: 30px 0;
+    padding: 50px 0;
     background-image: url('../images/slider/bg1.png');
     min-height: 600px;
     background-repeat: no-repeat;
@@ -175,6 +175,23 @@ height: 20px;
   }
   .slider_img img{
 
+  }
+
+  .carousel-indicators {
+    justify-content: end;
+    margin-bottom: -30px;
+    margin-right: 200px;
+}
+  .carousel-indicators [data-bs-target] { 
+    background-color: transparent;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    border: 5px solid rgb(221, 221, 221);
+  }
+
+  .carousel-indicators .active {
+    border: 5px solid rgb(255, 255, 255);
   }
   /* slider end  */
 
