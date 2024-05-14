@@ -415,8 +415,7 @@ footer {
 }
 .footer_icons a i:hover {
   transform: scale(1.1);
-  background-color: var(--white_color);
-  color: var(--yellow_color);
+  color: var(--white) !important;
 }
 
 
